@@ -22,7 +22,9 @@
 - Concert Metaverse.rbxl.lock
 
 2. Abra o seu RobloxStudio
-   <img src="./img/tutorial.jpeg">
+
+<img src="./img/tutorial.jpeg">
+
 3. Escolha a opção "Abrir do arquivo..." ou `Ctrl+O`
 4. Selecione o arquivo `ConcertMetaverse.rbxl`
 
