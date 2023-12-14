@@ -16,7 +16,7 @@
 
 ## Como usar?
 
-1. Baixe os arquivos os seguintes [arquivos](https://github.com/lucasarieiv/topicos-integrados/tree/main/concert_metaverse):
+1. Baixe os seguintes [arquivos](https://github.com/lucasarieiv/topicos-integrados/tree/main/concert_metaverse):
 
 - Concert Metaverse.rbxl
 - Concert Metaverse.rbxl.lock
