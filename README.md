@@ -14,4 +14,22 @@
 - **MARIANA MARIA DOS SANTOS RAMOS (01179459)**</br>
 - **THIAGO CAVALCANTE MENDES DA SILVA (01505909)**</br>
 
+## Como usar?
+
+1. Baixe os arquivos os seguintes [arquivos]('https://github.com/lucasarieiv/topicos-integrados/concert_metaverse'):
+
+- Concert Metaverse.rbxl
+- Concert Metaverse.rbxl.lock
+
+2. Abra o seu RobloxStudio
+   <img src="./img/tutorial.jpeg">
+3. Escolha a opção "Abrir do arquivo..." ou `Ctrl+O`
+4. Selecione o arquivo `ConcertMetaverse.rbxl`
+
 ## Escopo do projeto
+
+<img src="./img/metaverse_05.jpeg">
+<img src="./img/metaverse_01.jpeg">
+<img src="./img/metaverse_02.jpeg">
+<img src="./img/metaverse_03.jpeg">
+<img src="./img/metaverse_04.jpeg">
